@@ -2,7 +2,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://adrianmbugua.github.io/Huddle/)
+- Solution URL: [https://adrianmbugua.github.io/Huddle/](https://adrianmbugua.github.io/Huddle/)
 ss
 
 ### Built with
@@ -25,6 +25,6 @@ Working with icons
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Adrianmbugua)
+- Frontend Mentor - [@AdrianMbugua](https://www.frontendmentor.io/profile/Adrianmbugua)
 
 
