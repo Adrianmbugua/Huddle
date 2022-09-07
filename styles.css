@@ -30,7 +30,7 @@ body{
     padding-bottom: 10px;
     grid-area: logo;
 }
-.main{
+main{
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr;
@@ -78,7 +78,7 @@ footer{
 }
 
 @media only screen and (max-width: 500px) {
-    .main{
+    main{
       
       display: block;
       padding-bottom: 20px;;
